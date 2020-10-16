@@ -3,7 +3,7 @@
  Code By @Swda ....
               ----Oct 15 2020!
 
-This project is for html &amp; css practice. We made this for practice purpose.
+This project is for html &amp; css practice. I made this for practice purpose.
 <b>coded by [Swda](https://github.com/Supsource )</b>
 ### 👍 HAVE FUN 👍
 Thanks, Swda
